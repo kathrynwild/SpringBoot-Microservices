@@ -1,0 +1,14 @@
+2021-05-11 12:48:40,078 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-05-11 12:49:59,399 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.capgemini:firstSpringMavenProject:0.0.1-SNAPSHOT @ C:\Users\kawild\OneDrive - Capgemini\Desktop\github\Spring\assignments\firstSpringMavenProject\pom.xml.
+2021-05-11 12:50:03,514 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 12:50:03,515 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kawild\OneDrive - Capgemini\Desktop\github\Spring\assignments\firstSpringMavenProject\src\main\resources
+2021-05-11 12:50:03,529 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 12:50:03,529 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kawild\OneDrive - Capgemini\Desktop\github\Spring\assignments\firstSpringMavenProject\src\test\resources
+2021-05-11 12:50:05,383 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 12:50:05,385 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kawild\OneDrive - Capgemini\Desktop\github\Spring\assignments\firstSpringMavenProject\src\main\resources
+2021-05-11 12:50:05,388 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 12:50:05,388 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kawild\OneDrive - Capgemini\Desktop\github\Spring\assignments\firstSpringMavenProject\src\test\resources
+2021-05-11 12:53:24,430 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 12:53:24,430 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kawild\OneDrive - Capgemini\Desktop\github\Spring\assignments\firstSpringMavenProject\src\main\resources
+2021-05-11 12:53:24,431 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-05-11 12:53:24,431 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kawild\OneDrive - Capgemini\Desktop\github\Spring\assignments\firstSpringMavenProject\src\test\resources
