@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.capgemini.entity.Employee;
+import com.capgemini.exceptions.EmployeeNotFoundException;
 import com.capgemini.repo.EmployeeRepo;
 
 import java.util.List;
@@ -21,7 +22,11 @@ public class EmployeeServiceImpl implements EmployeeService {
 	}
 	
 	@Override
-	public Optional<Employee> getEmployeeById(String empId) {
+	public Optional<Employee> getEmployeeById(String empId) throws EmployeeNotFoundException {
+		if(employeeRepo.findById(empId) == null) {
+			throw new EmployeeNotFoundException("Employee Not Found");
+		}
+		
 		return employeeRepo.findById(empId);
 	}
 
